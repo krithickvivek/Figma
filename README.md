@@ -219,6 +219,10 @@ color: black;
  word-wrap: break-word
 ```
 ## OUTPUT:
-![Alt text](1.png)![Alt text](2.png)![Alt text](3.png)![Alt text](4.png)![Alt text](WHOLE.png)
+![Alt text](1.png)
+![Alt text](2.png)
+![Alt text](3.png)
+![Alt text](4.png)
+![Alt text](WHOLE.png)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
